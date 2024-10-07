@@ -1,5 +1,3 @@
-# main.py
-
 from contacts import ContactsManager
 from messaging import generate_message, send_message, log_message
 
