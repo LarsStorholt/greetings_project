@@ -22,6 +22,7 @@ This Python package automates the process of sending personalized "Good Morning"
 - Easy to use and customizable.
 
 ## Package Structure
+'''
 morning_greetings/
 │
 ├── __init__.py              # Marks the directory as a package
@@ -40,16 +41,16 @@ morning_greetings/
 │   ├── message_generator.py # Generate personalized messages
 │   ├── message_sender.py    # Simulate sending messages
 │   └── logger.py            # Log sent messages
+'''
 
 ## Installation 
 
 To get started, follow these steps:
 1. **Clone the Repository** (or download the package): 
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/LarsStorholt/greetings_project.git 
    cd greetings_project 
-   ```
-have virtual enviroment?? 
+   ``` 
 
 2. **Install the Package**:
    ```bash
@@ -95,5 +96,5 @@ The package includes basic error handling for:
 All messages that are "sent" are logged in the message_log.txt file, including timestamps and recipient names.
 
 ## Licence
-This project is licensed under the MIT License. See the LICENSE file for more details. <Link>
-(https://github.com/shailendrabhandari/project_game/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
+https://github.com/LarsStorholt/greetings_project/blob/master/LICENSE file for details.

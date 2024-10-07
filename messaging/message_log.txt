@@ -1,0 +1,13 @@
+
+2024-10-03 13:50:59.645116 - Sent to Alice: Alice, good morning! Make today as great as you are!
+2024-10-03 13:50:59.645458 - Sent to Bob: Hi Bob, sending you good vibes for a great day!
+2024-10-03 13:50:59.645662 - Sent to Charlie: Hi Charlie, sending you good vibes for a great day!
+2024-10-03 13:51:02.072477 - Sent to Alice: Hello Alice, rise and shine! Hope you have an amazing day!
+2024-10-03 13:51:02.073418 - Sent to Bob: Hello Bob, rise and shine! Hope you have an amazing day!
+2024-10-03 13:51:02.075361 - Sent to Charlie: Charlie, good morning! Make today as great as you are!
+2024-10-06 14:00:57.858121 - Sent to Alice: Alice, good morning! Make today as great as you are!
+2024-10-06 14:00:57.860489 - Sent to Bob: Hi Bob, sending you good vibes for a great day!
+2024-10-06 14:00:57.860953 - Sent to Charlie: Hello Charlie, rise and shine! Hope you have an amazing day!
+2024-10-06 18:04:38.278842 - Sent to Alice: Good Morning, Alice! Wishing you a fantastic day ahead!
+2024-10-06 18:04:38.280242 - Sent to Bob: Bob, good morning! Make today as great as you are!
+2024-10-06 18:04:38.280459 - Sent to Charlie: Charlie, good morning! Make today as great as you are!

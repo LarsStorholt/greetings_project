@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="greetings_project",  # The package name
     version="0.1",
-    packages=find_packages(),  # Automatically find all packages in your project
-    include_package_data=True,  # Include non-Python files specified in MANIFEST.in (if any)
+    packages=find_packages(),  
+    include_package_data=True,  
     description="Assignment 2 in ACIT4420. This program automates the process of sending personlized Good-morning message to a list of friends",
     author="Lars Storholt",
     author_email="s354518@oslomet.no",
